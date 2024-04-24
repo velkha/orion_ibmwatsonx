@@ -1,0 +1,1 @@
+https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-api-client&code=javascript
